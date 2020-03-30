@@ -1,0 +1,7 @@
+This assignment was very fun! I was a bit disappointed that the colors I chose on QT didnt show up when I opened 
+the file on the terminal. Working with QT was definitely a challenge. The documentation is a bit confusing 
+but it was nice to have code to base a skeleton on. 
+To future students: 
+There is alot of research to be done when it comes to python and QT. The most difficult part of this assignment was connecting 
+the UI file and py file. It kept giving me issues and would not run. Overall, i'd say it was fun to design on QT and not have to use 
+CSS and HTML.
